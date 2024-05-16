@@ -1,0 +1,20 @@
+.navPanel {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #1976d2;
+    font-size: large;
+    font-weight: 600;
+    height: 70px;
+    padding: 10px;
+    background-color: rgb(234, 238, 238);
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2)
+}
+
+.link {
+    margin: 0 10px;
+}
+
+.link:hover {
+    opacity: 0.5;
+}
